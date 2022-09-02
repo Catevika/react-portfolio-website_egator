@@ -92,7 +92,7 @@ a:hover {
 	color: var(--color-white);
 }
 
-btn {
+.btn {
 	width: -webkit-max-content;
 	width: -moz-max-content;
 	width: max-content;
@@ -105,7 +105,7 @@ btn {
 	transition: var(--transition);
 }
 
-btn:hover {
+.btn:hover {
 	background-color: var(--color-white);
 	color: var(--color-bg);
 	border-color: transparent;
@@ -124,7 +124,7 @@ img {
 }
 
 /*=============================================
-=        MEDIA QUERIES FOR MEDIUM DEVICES      =
+=        MEDIA QUERIES FOR MEDIUM DEVICES     =
 =============================================*/
 @media screen and (max-width: 1024px) {
 	.container {

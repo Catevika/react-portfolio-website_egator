@@ -26,14 +26,6 @@ const Services = () => {
 							<BiCheck className='service__list-icon' />
 							<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
 						</li>
-						<li>
-							<BiCheck className='service__list-icon' />
-							<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
-						</li>
-						<li>
-							<BiCheck className='service__list-icon' />
-							<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
-						</li>
 					</ul>
 				</article>
 				{/* Web Development */}
@@ -58,14 +50,6 @@ const Services = () => {
 							<BiCheck className='service__list-icon' />
 							<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
 						</li>
-						<li>
-							<BiCheck className='service__list-icon' />
-							<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
-						</li>
-						<li>
-							<BiCheck className='service__list-icon' />
-							<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
-						</li>
 					</ul>
 				</article>
 				{/* End of Web Development */}
@@ -74,14 +58,6 @@ const Services = () => {
 						<h3>Content creation</h3>
 					</div>
 					<ul className='service__list'>
-						<li>
-							<BiCheck className='service__list-icon' />
-							<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
-						</li>
-						<li>
-							<BiCheck className='service__list-icon' />
-							<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
-						</li>
 						<li>
 							<BiCheck className='service__list-icon' />
 							<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>

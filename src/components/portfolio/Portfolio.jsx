@@ -23,27 +23,6 @@ const data = [
 		title: 'Remix Support-Desk App',
 		github: 'https://github.com/Catevika/Remix_support-desk_update_react18',
 		demo: 'https://remix-support-desk-update-react18.vercel.app/'
-	},
-	{
-		id: '4',
-		image: IMG,
-		title: 'Remix Support-Desk App',
-		github: 'https://github.com/Catevika/Remix_support-desk_update_react18',
-		demo: 'https://remix-support-desk-update-react18.vercel.app/'
-	},
-	{
-		id: '5',
-		image: IMG,
-		title: 'Remix Support-Desk App',
-		github: 'https://github.com/Catevika/Remix_support-desk_update_react18',
-		demo: 'https://remix-support-desk-update-react18.vercel.app/'
-	},
-	{
-		id: '6',
-		image: IMG,
-		title: 'Remix Support-Desk App',
-		github: 'https://github.com/Catevika/Remix_support-desk_update_react18',
-		demo: 'https://remix-support-desk-update-react18.vercel.app/'
 	}
 ];
 

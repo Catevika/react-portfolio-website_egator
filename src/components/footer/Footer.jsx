@@ -8,10 +8,10 @@ import './Footer.css';
 const Footer = () => {
 	return (
 		<footer id='footer'>
+			Site made with 💖 by{' '}
 			<a href='/' className='footer-logo'>
-				Catevika
+				Catevika.
 			</a>
-
 			<ul className='permalinks'>
 				<li>
 					<a href='/'>Home</a>
@@ -41,21 +41,21 @@ const Footer = () => {
 					target='_blank'
 					rel='noopener noreferrer'
 				>
-					<FaFacebookF />
+					<FaFacebookF className='footer__socials-icon' />
 				</a>
 				<a
 					href='https://instagram.com/'
 					target='_blank'
 					rel='noopener noreferrer'
 				>
-					<FiInstagram />
+					<FiInstagram className='footer__socials-icon' />
 				</a>
 				<a
 					href='https://twitter.com/'
 					target='_blank'
 					rel='noopener noreferrer'
 				>
-					<IoLogoTwitter />
+					<IoLogoTwitter className='footer__socials-icon' />
 				</a>
 			</div>
 			<div className='footer__copyright'>

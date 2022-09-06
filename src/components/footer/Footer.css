@@ -32,6 +32,11 @@ footer a {
   margin-bottom: 4rem;
 }
 
+.footer__socials-icon {
+  color: var(--color-bg);
+  background-color: var(--color-primary);
+}
+
 .footer__socials a {
   background-color: var(--color-bg);
   color: var(--color-white);

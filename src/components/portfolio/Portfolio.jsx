@@ -1,3 +1,4 @@
+import React from 'react';
 import IMG from '../../assets/Remix-support-desk app.jpeg';
 import './Portfolio.css';
 

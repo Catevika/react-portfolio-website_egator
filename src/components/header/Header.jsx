@@ -1,3 +1,4 @@
+import React from 'react';
 import CTA from './CTA';
 import ME from '../../assets/me.png';
 import HeaderSocials from './HeaderSocials';
